@@ -2,6 +2,12 @@
 
 **`ML Engineer (Data Scientist/Software Engineer)`**
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 I’m a Machine Learning and my superpower is learning! 
 
 As a ML Engineer, I'm responsible for building scalable AI/ML data-science-based solution design and ensuring they're production ready. I work closely with internal stakeholders and users, and identify opportunities that lead to business impact and ultimately drive the Data Science, AI, and Machine Learning vision.
