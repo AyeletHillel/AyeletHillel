@@ -22,7 +22,7 @@ As a ML Engineer, I'm responsible for building scalable AI/ML data-science-based
 <img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/006/662/139/original/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />
-<img align="left" alt="API" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPd-I6cSNSQ4dSyyXg4yscUE8gY1C2m5hwWpUuxk&s" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfcGbuOw8QiXTXYSutJdwbVLgF4rAIwSD6rxQUy3fIW5P0Ui2jQ8Y3aTVoiPUZ3ktZZo&usqp=CAU" />
 <br />
 
 #
