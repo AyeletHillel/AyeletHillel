@@ -6,7 +6,7 @@ I’m a Machine Learning and my superpower is learning!
 
 As a ML Engineer, I'm responsible for building scalable AI/ML data-science-based solution design and ensuring they're production ready. I work closely with internal stakeholders and users, and identify opportunities that lead to business impact and ultimately drive the Data Science, AI, and Machine Learning vision.
 
-My enthusiasm lies in leveraging AI to better the lives of individuals around the world <3
+My enthusiasm lies in leveraging AI to better the lives of individuals around the world. 
 
 
 <div align="center">
