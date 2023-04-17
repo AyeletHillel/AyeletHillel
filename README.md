@@ -36,6 +36,4 @@ My enthusiasm lies in leveraging AI to better the lives of individuals around th
 
 #
 
-<a style="display: flex;flex-direction: column;justify-content:center; padding: 7px; text-align: center;color: #fff;
-    border-radius: 16px;
-    background-color: #0A66C2;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayelet-hillel" target="_blank">Follow on LinkedIn</a>
+<a style="display: flex;flex-direction: column;justify-content:center; padding: 7px; text-align: center;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayelet-hillel" target="_blank">Follow on LinkedIn</a>
