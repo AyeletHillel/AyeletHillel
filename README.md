@@ -1,6 +1,6 @@
 #  Ayelet Hillel
 
-**`ML Engineer (Data Scientist/Software Engineer)`**
+**`ML Engineer`**
 
 I’m a Machine Learning and my superpower is learning! 
 
